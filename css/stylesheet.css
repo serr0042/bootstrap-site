@@ -1,0 +1,119 @@
+.header-nonbs {
+  height: 600px;
+  background: url("http://41.media.tumblr.com/39fa5fa175d056522009eaf0334fa6b5/tumblr_mvhlc9sIGt1sfie3io1_1280.jpg") no-repeat 50% 50%; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #fff;
+}
+
+.navbar{
+  background: lightgray;
+  padding: 1em 0;
+  box-shadow: 3px 3px 5px -2px #333;
+}
+.navbar-default .navbar-nav > li > a{
+  color:#fff;
+}
+
+
+
+.footer-nonbs {
+  border-top: 1px solid #444;
+  padding-top: 20px;
+  margin-top: 20px;
+  color: #999
+}
+/**********************
+These styles just create a bit
+of extra space for the header
+ and the footer.
+**********************/
+a{
+  font-weight:bold;
+  font-size:1.6rem;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+.container {
+    background-color: white;
+}
+
+h1{
+    font-family: 'Quicksand', helvetica, arial, sans-serif;
+    font-weight: 400;
+    font-size: 6.854rem;
+    padding-top: 70px;
+    text-shadow: 2px 1px #333;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Quicksand', helvetica, arial, sans-serif;
+    font-weight: 400;
+    font-size: 4.236rem;
+    padding: 20px 0px;
+}
+
+h3 {
+    font-family: 'Quicksand', helvetica, arial, sans-serif;
+    font-weight: 400;
+    font-size: 2.618rem;
+    text-align: center;
+}
+p {
+    font-family: 'Raleway', helvetica, arial, sans-serif;
+    font-weight: 100;
+    text-align: justify;
+    
+}
+.p-about {
+    font-size: 2rem;
+    line-height: 1.6;
+    padding: 0px 30px 10px 30px;
+}
+
+.p-teams {
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.caption {
+    text-align: center;
+    font-family: 'Raleway', helvetica, arial, sans-serif;
+    font-weight: 700;
+}
+
+tr {
+    padding: 10px 30px;
+}
+
+object {
+    width: 100%;
+}
+
+.navbar-nav {
+    font-family: 'Quicksand', helvetica, arial, sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.row {
+    padding-bottom: 25px;
+}
+
+.col-sm-4 {
+    float: left;
+}
+
+figure {
+    padding: 10px;
+}
+
+figcaption {
+    padding: 10px;
+}
